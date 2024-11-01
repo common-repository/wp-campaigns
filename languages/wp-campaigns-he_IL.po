@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"Project-Id-Version: WP Campaigns\n"
+"POT-Creation-Date: 2019-07-03 15:35+0300\n"
+"PO-Revision-Date: 2019-07-03 15:40+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-campaigns.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: he_IL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wpex-campaigns-admin.php:109
+#: admin/class-wpex-campaigns-admin.php:110
+msgid "Add New campaign"
+msgstr "צור קמפיין חדש"
+
+#: admin/class-wpex-campaigns-admin.php:111
+msgid "New campaign"
+msgstr "קמפיין חדש"
+
+#: admin/class-wpex-campaigns-admin.php:112
+msgid "Edit campaign"
+msgstr "ערוך קמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:113
+msgid "View campaign"
+msgstr "הצג קמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:114
+msgid "All campaigns"
+msgstr "כל הקמפיינים"
+
+#: admin/class-wpex-campaigns-admin.php:115
+msgid "Search campaigns"
+msgstr "חיפוש בקמפיינים"
+
+#: admin/class-wpex-campaigns-admin.php:116
+msgid "Parent campaigns:"
+msgstr "קמפיינים אב:"
+
+#: admin/class-wpex-campaigns-admin.php:117
+msgid "No campaigns found."
+msgstr "לא נמצאו קמפיינים."
+
+#: admin/class-wpex-campaigns-admin.php:118
+msgid "No campaigns found in Trash."
+msgstr "לא נמצאו קמפיינים באשפה."
+
+#: admin/class-wpex-campaigns-admin.php:149
+msgid "Search Campaign's statuses"
+msgstr "חפש סטטוסים של קמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:150
+msgid "All Campaign's statuses"
+msgstr "כל הסטטוסים של הקמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:151
+msgid "Parent Campaign's status"
+msgstr "סטטוס אב של הקמפיינים"
+
+#: admin/class-wpex-campaigns-admin.php:152
+msgid "Parent Campaign's status:"
+msgstr "סטטוס אב של הקמפיינים:"
+
+#: admin/class-wpex-campaigns-admin.php:153
+msgid "Edit Campaign's status"
+msgstr "ערוך את סטטוס של קמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:154
+msgid "Update Campaign's status"
+msgstr "עדכן  את סטטוס הקמפיין"
+
+#: admin/class-wpex-campaigns-admin.php:155
+msgid "Add New Campaign's statuses"
+msgstr "הוסף סטטוס  קמפיין חדש"
+
+#: admin/class-wpex-campaigns-admin.php:156
+msgid "New Campaign's statuses"
+msgstr "סטטוס קמפיין חדש"
+
+#: admin/class-wpex-campaigns-admin.php:157
+msgid "Campaign's statuses"
+msgstr "סטטוס קמפיין "
+
+#: admin/class-wpex-campaigns-admin.php:208
+msgid "Email Address"
+msgstr "כתובת אימייל"
+
+#: admin/class-wpex-campaigns-admin.php:209
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: admin/class-wpex-campaigns-admin.php:210
+msgid "Last Message"
+msgstr "הודעה אחרונה"
+
+#: admin/class-wpex-campaigns-admin.php:211
+msgid "Photo"
+msgstr "תמונה"
+
+#: admin/partials/build/static/js/2.c603be9d.chunk.js:1
+msgid "*"
+msgstr "*"
+
+#: admin/partials/build/static/js/2.c603be9d.chunk.js:1
+msgid "/"
+msgstr "/"
+
+#: admin/partials/settings.php:5
+msgid "WPex newsletter campaigns setting page!"
+msgstr "דף הגדרת קמפיינים של הידיעון WPex!"
+
+#: admin/partials/settings.php:10
+msgid "Mailchimp API settings"
+msgstr "הגדרות API של Mailchimp "
+
+#: admin/partials/settings.php:17
+msgid "Private key"
+msgstr "Private key"
+
+#: admin/partials/settings.php:39
+msgid ""
+"An error happened on the WordPress side. Make sure your server allows remote "
+"calls."
+msgstr "התרחשה שגיאה בצד וורדפרס. ודא שהשרת שלך מאפשר קריאות מרוחקות."
+
+#: admin/partials/settings.php:47
+msgid "Save"
+msgstr "שמור"
+
+#: includes/class-wpex-campaigns.php:92
+#, php-format
+msgid "No %s"
+msgstr "אין %s"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Campaigns"
+msgstr "WP Campaigns"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpcampaigns.dev"
+msgstr "http://wpcampaigns.dev"
+
+#. Description of the plugin/theme
+msgid ""
+"Create awesome newsletter with your data in your site and send to third "
+"party providers to spread the news."
+msgstr ""
+"צור ניוזלטר מדהים עם התוכן שלך ישירות מהאתר שלך ושלח לספקי צד שלישי כדי "
+"להפיץ את החדשות."
+
+#. Author of the plugin/theme
+msgid "WPex - Gilad Takoni & Ronen abutbule"
+msgstr "Wpex - גלעד טקוני ורונן אבוטבול"
+
+#. Author URI of the plugin/theme
+msgid "https://wpex.dev/"
+msgstr "https://wpex.dev/"
